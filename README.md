@@ -28,7 +28,7 @@ This repository contains machine learning models developed for **Apple Plant Dis
 ## 🔗 How to Use  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
+   git clone https://github.com/saisuhas432005/Sameeksha_Data_Solutions.git
    pip install tensorflow scikit-learn numpy pandas matplotlib
 
 
