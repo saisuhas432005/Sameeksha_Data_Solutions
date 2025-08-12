@@ -7,6 +7,9 @@ This repository contains machine learning models developed for **Apple Plant Dis
 - **Sequential CNN** (Custom-built convolutional neural network)  
 - **Random Forest Classifier** (Traditional machine learning model)  
 
+## 📖Dataset
+- https://www.kaggle.com/datasets/rashikrahmanpritom/plant-disease-recognition-dataset
+
 ## 🚀 Key Features  
 - **Predictive Analytics**: Developed models to classify apple plant diseases with high accuracy.  
 - **Image Classification**: Implemented deep learning techniques for recognizing plant diseases.  
@@ -29,5 +32,6 @@ This repository contains machine learning models developed for **Apple Plant Dis
    ```sh
    git clone https://github.com/saisuhas432005/Sameeksha_Data_Solutions.git
    pip install tensorflow scikit-learn numpy pandas matplotlib
+
 
 
